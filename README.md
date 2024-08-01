@@ -1,30 +1,27 @@
-# React + TypeScript + Vite
+<h1 align="center"> Calculadora de propinas</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![calculadora_propinas](https://github.com/user-attachments/assets/68830af9-208f-4a14-b4bc-0ad857c13677)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2> :page_facing_up: Descripción del proyecto</h2>
 
-## Expanding the ESLint configuration
+<p> Creación de una app para calcular la propinas de un restaurante,
+en el que se podrá ir añadiendo comidas al menú y eliminar. Al final se podrá guardar la orden.</p>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+<b>Proyecto: <a href="https://chimerical-pika-ac1ab2.netlify.app/">Calculadora de propinas<a></b>
 
-- Configure the top-level `parserOptions` property like this:
+<h2> :heavy_check_mark: Características</h2>
+<p>En este proyecto se utiliza useReducer y <a href="https://tailwindcss.com/docs/installation/using-postcss">TailwindCSS</a> </p>
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+<h2> :hammer: Tecnologías aplicadas</h2>
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+<ul>
+  <li>React</li>
+  <li>Vite</li>
+  <li>TypeScript</li>
+  <li>TailwindCSS</li>
+  <li>JSX</li>
+</ul>
+
+<h2>Idea del proyecto</h2>
+<p>Este proyecto fue realizado durante el curso de <a href="https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/?couponCode=KEEPLEARNING">React y TypeScript</a></p>
