@@ -24,4 +24,8 @@ en el que se podrá ir añadiendo comidas al menú y eliminar. Al final se podr�
 </ul>
 
 <h2>Idea del proyecto</h2>
-<p>Este proyecto fue realizado durante el curso de <a href="https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/?couponCode=KEEPLEARNING">React y TypeScript</a></p>
+<p>Segundo proyecto realizado durante el curso de <a href="https://www.udemy.com/course/react-de-principiante-a-experto-creando-mas-de-10-aplicaciones/?couponCode=KEEPLEARNING">React y TypeScript</a></p>
+
+<a href="https://github.com/antii16/shopping-cart">Ver proyecto anterior </a>
+
+<a href="https://github.com/antii16/calorie-tracker">Ver proyecto siguiente </a>
